@@ -9,7 +9,8 @@ Sololearn UI Clones using TailwindCSS ⚡
 [![web](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://instagramwebui.netlify.app)
 
 ## Sneak Peek of Site 🙈 :
-![sololearn](https://user-images.githubusercontent.com/64949957/130730792-0a2243c5-5e20-4216-9631-5e37646a3ee3.PNG)
+![sololearn front](https://github.com/Vishnu252005/Sololearn-Clone/assets/141705372/a0d99823-18ec-4868-85c3-40cf4ec69cfd)
+
 
 
 
