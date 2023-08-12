@@ -1,0 +1,17 @@
+{
+  "name": "sololearn-ui-clone",
+  "version": "1.0.0",
+  "description": "Sololearn UI Clone",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.7",
+    "win-node-env": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwind build -i src/style.css -o public/assets/style.css",
+    "prod": "NODE_ENV=production tailwind build -i src/style.css -o public/assets/style.css"
+  },
+  "author": "Jigar Sable",
+  "license": "ISC"
+}
