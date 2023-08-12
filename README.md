@@ -1,8 +1,6 @@
 ## Sololearn UI Clone
 Sololearn UI Clones using TailwindCSS ⚡
 
-### <a href="https://Sololearnwebui.netlify.app" target="_blank">**Visit Now 🚀**</a>
-
 ## Tech Stack :
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Web-UI-Clones/search?l=html)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -14,6 +12,6 @@ Sololearn UI Clones using TailwindCSS ⚡
 ![sololearn](https://user-images.githubusercontent.com/64949957/130730792-0a2243c5-5e20-4216-9631-5e37646a3ee3.PNG)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 
